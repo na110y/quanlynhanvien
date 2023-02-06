@@ -1,0 +1,18 @@
+// Xuất tất cả các component trong thư mục components
+
+import VTooltip from "./VTooltip";
+import VToast from "./VToast";
+import VFomatSalary from "./VFomatSalary";
+import VCombobox from "./VCombobox";
+import MDonVi from "./MDonVi";
+import VPanging from "./VPanging";
+import VComboboxApi from "./VComboboxApi";
+export default {
+  VTooltip,
+  VToast,
+  VFomatSalary,
+  VCombobox,
+  MDonVi,
+  VPanging,
+  VComboboxApi,
+};
